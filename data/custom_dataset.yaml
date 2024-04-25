@@ -1,0 +1,6 @@
+train: ./data/obj_train_data/train.txt   # path to your train.txt file
+val: ./data/obj_train_data/val.txt       # path to your val.txt file, if you have one
+
+# Classes
+nc: 1                                    # number of classes
+names: ['1']               # names of each class
